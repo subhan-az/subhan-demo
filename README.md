@@ -1,2 +1,4 @@
 # subhan-demo
-This is first Repository
+This is first git Repository
+<br>
+Author: Subhan N A
